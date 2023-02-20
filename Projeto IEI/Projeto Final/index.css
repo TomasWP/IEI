@@ -1,0 +1,787 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  color: #fff;
+  font-size: 40px;
+  margin-top: 5vh;
+  margin-bottom: auto;
+  margin-left: 10vh;
+  margin-right: auto;
+  border-bottom: solid 3px #fff;
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 5vh;
+}
+
+.h1 {
+  color: #fff;
+  justify-content: center;
+  margin-left: -20vh;
+  margin-right: 15vh;
+  margin-bottom: auto;
+  margin-top: 20vh;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Cambria;
+}
+
+.h2 {
+  color: #fff;
+  justify-content: center;
+  margin-left: 15vh;
+  margin-right: 15vh;
+  margin-bottom: auto;
+  margin-top: 5vh;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Cambria;
+}
+
+.h3 {
+  color: #fff;
+  text-align: left;
+  justify-content: left;
+  margin-left: 15vh;
+  margin-right: 15vh;
+  margin-bottom: auto;
+  margin-top: 8vh;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Cambria;
+}
+
+.h4 {
+  color: #fff;
+  justify-content: center;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  margin-bottom: auto;
+  margin-top: 7vh;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Cambria;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}  
+#home {
+  background: url("sec1.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.logo {
+margin-top: 2px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Cambria;
+  font-size: 18px;
+  background: #1f1e1ee8;
+  height: 8vh;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-list li {
+  letter-spacing: 3px;
+  margin-left: 32px;
+}
+
+.mobile-menu {
+  display: none;
+  cursor: pointer;
+}
+
+.mobile-menu div {
+  width: 32px;
+  height: 2px;
+  background: #fff;
+  margin: 8px;
+  transition: 0.5s;
+}
+
+@media (max-width: 1410px) {
+  .h1{
+    color: #fff;
+    justify-content: center;
+    margin-left: -190vh;
+    margin-right: 15vh;
+    margin-bottom: auto;
+    margin-top: 20vh;
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .h4 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-bottom: auto;
+    margin-top: 7vh;
+    font-size: 17px;
+    line-height: 25px;
+    font-family: Cambria;
+  }
+
+  .h2{
+    color: #fff;
+    justify-content: center;
+    margin-left: -180vh;
+    margin-right: 15vh;
+    margin-bottom: auto;
+    margin-top: 20vh;
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  h1 {
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 5vh;
+    margin-bottom: auto;
+    margin-left: 83vh;
+    margin-right: 100vh;
+    border-bottom: solid 1px #fff;
+  }
+}
+
+@media (max-width: 1215px) {
+  .h4 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-bottom: auto;
+    margin-top: 7vh;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Cambria;
+  }
+}
+
+@media (max-width: 960px) {
+  .h4 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 6vh;
+    margin-right: 6vh;
+    margin-bottom: auto;
+    margin-top: 7vh;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Cambria;
+  }
+}
+
+@media (max-width: 850px) {
+  .h4 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 6vh;
+    margin-right: 6vh;
+    margin-bottom: auto;
+    margin-top: 7vh;
+    font-size: 14px;
+    line-height: 17px;
+    font-family: Cambria;
+  }
+}
+
+@media (max-width: 755px) {
+  .h4 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 4vh;
+    margin-right: 4vh;
+    margin-bottom: auto;
+    margin-top: 4vh;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: Cambria;
+  }
+}
+
+@media (max-width: 1050px) {
+  .h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 20vh;
+    margin-left: -115vh;
+    margin-right: 10vh;
+    margin-bottom: auto;
+    font-size: 17px;
+    line-height: 23px;
+  }
+
+  .h2{
+    color: #fff;
+    justify-content: center;
+    margin-top: 20vh;
+    margin-left: -107vh;
+    margin-right: 10vh;
+    margin-bottom: auto;
+    font-size: 17px;
+    line-height: 23px;
+  }
+
+  h1 {
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 5vh;
+    margin-bottom: auto;
+    margin-left: 60vh;
+    margin-right: 50vh;
+    border-bottom: solid 1px #fff;
+  }
+}
+
+  @media (max-width: 910px) {
+    .h1{
+      color: #fff;
+      text-align: center;
+      margin-top: 20vh;
+      margin-left: -120vh;
+      margin-right: 5vh;
+      margin-bottom: auto;
+      font-size: 15px;
+      line-height: 20px;
+    }
+
+    h2 {
+      font-size: 30px;
+      margin-bottom: 5vh;
+    }
+
+    .h2{
+      color: #fff;
+      justify-content: center;
+      margin-top: 20vh;
+      margin-left: -100vh;
+      margin-right: 10vh;
+      margin-bottom: auto;
+      font-size: 15px;
+      line-height: 17px;
+    }
+
+    h1 {
+      margin-right: 80vh;
+      margin-left: 25vh;
+    }
+  }
+
+@media (max-width: 660px) {
+  .h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 15vh;
+    margin-left: -115vh;
+    margin-right: 5vh;
+    margin-bottom: auto;
+    font-size: 13px;
+    line-height: 20px;
+  }
+}
+
+@media (max-width: 540px) {
+  .h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 15vh;
+    margin-left: -115vh;
+    margin-right: 5vh;
+    margin-bottom: auto;
+    font-size: 13px;
+    line-height: 17px;
+    
+  }
+
+  h2 {
+    font-size: 27px;
+    margin-bottom: 5vh;
+  }
+}
+
+@media (max-width: 590px) {
+  .h2{
+    color: #fff;
+    justify-content: center;
+    margin-top: 15vh;
+    margin-left: -97vh;
+    margin-right: 10vh;
+    margin-bottom: auto;
+    font-size: 13px;
+    line-height: 17px;
+  }
+
+  h1 {
+    margin-right: 80vh;
+    margin-left: 25vh;
+    margin-top: 3vh;
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 999px) {
+  body {
+    overflow-x: hidden;
+  }
+  .nav-list {
+    position: absolute;
+    top: 8vh;
+    right: 0;
+    width: 50vw;
+    height: 92vh;
+    background: #1f1e1eb6;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in;
+  }
+  .nav-list li {
+    margin-left: 0;
+    opacity: 0;
+  }
+  .mobile-menu {
+    display: block;
+  }
+
+  .nav-list.active {
+    transform: translateX(0);
+  }
+}
+
+@keyframes navLinkFade {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.mobile-menu.active .line1 {
+  transform: rotate(-45deg) translate(-8px, 8px);
+}
+
+.mobile-menu.active .line2 {
+  opacity: 0;
+}
+
+.mobile-menu.active .line3 {
+  transform: rotate(45deg) translate(-5px, -7px);
+}
+
+.card {
+  position: relative;
+  width: 170px;
+  height: 200px;
+  margin: 20px;
+}
+
+.card .face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: .5s;
+}
+
+.card .front {
+  transform: perspective(600px) rotateY(0deg);
+  box-shadow: 0 5px 10px #000;
+}
+
+.card .front img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card .front h2 {
+  position: relative;
+  margin-top: 160px;
+  width: 100%;
+  height: 45px;
+  line-height: 45px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.705);
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+
+.card .back {
+  transform: perspective(600px) rotateY(180deg);
+  background: #1f1e1ee8;
+  padding: 15px;
+  color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  box-shadow: 0 5px 10px #000;
+}
+
+.card .back .link {
+  line-height: 30px;
+}
+
+.card .back .link a {
+  color: #f3f3f3;
+  font-size: 15px;
+}
+
+.card .back h2 {
+  font-size: 22px;
+  margin-top: 10px;
+  letter-spacing: 2px;
+}
+
+.card .back p {
+  letter-spacing: 1px;
+}
+
+.card:hover .front {
+  transform: perspective(600px) rotateY(180deg);
+}
+
+.card:hover .back {
+  transform: perspective(600px) rotateY(360deg);
+}
+
+#resumo {
+  background: url("f1.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  position: relative;
+  overflow: hidden;
+
+}
+
+#capitulos {
+  background: url("f12.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+#introducao {
+  background: url("cap1.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  position: relative;
+  overflow: hidden;
+  
+}
+
+#historiadaformula1 {
+  background: url("cap2.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  position: relative;
+  overflow: hidden;
+}
+
+#coreseosseussignificados {
+  text-align: left;
+}
+
+#segurancanosprimordiosdaformula1 {
+  background: url("cap3.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+}
+
+#segurancanosprimordiosdaformula12 {
+  background: url("cap32.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+}
+
+@media (max-width: 1460px) {
+  .h3 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 8vh;
+    margin-right: 8vh;
+    margin-bottom: auto;
+    margin-top: 8vh;
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+}
+
+@media (max-width: 990px) {
+  .h3 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 8vh;
+    margin-right: 8vh;
+    margin-bottom: auto;
+    margin-top: 8vh;
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+
+@media (max-width: 850px) {
+  .h3 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 6vh;
+    margin-right: 6vh;
+    margin-bottom: auto;
+    margin-top: 6vh;
+    font-size: 17px;
+    line-height: 21px;
+  }
+}
+
+@media (max-width: 740px) {
+  .h3 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    margin-bottom: auto;
+    margin-top: 5vh;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
+
+@media (max-width: 640px) {
+  .h3 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    margin-bottom: auto;
+    margin-top: 5vh;
+    font-size: 15px;
+    line-height: 19px;
+  }
+}
+
+@media (max-width: 600px) {
+  .h3 {
+    color: #fff;
+    justify-content: center;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    margin-bottom: auto;
+    margin-top: 5vh;
+    font-size: 14px;
+    line-height: 17px;
+  }
+}
+
+#estadodaformula1 {
+  background: url("cap4.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#avancostecnologicosnaformula1 {
+  background: url("cap5.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#avancostecnologicosnaformula12 {
+  background: url("cap52.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#avancostecnologicosnaformula13 {
+  background: url("cap53.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#avancostecnologicosnaformula14 {
+  background: url("cap54.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#avancostecnologicosnaformula15 {
+  background: url("cap55.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#formula1nosautomoveis {
+  background: url("cap6.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#formula1nosautomoveis2 {
+  background: url("cap62.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#conclusao {
+  background: url("cap7.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#coreseosseussignificados {
+  background: url("cap22.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#evolucaodaformula1 {
+  background: url("cap23.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#segurancanosprimordiosdaformula1 {
+  background: url("cap3.jpg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#segurancanosprimordiosdaformula12 {
+  background: url("cap32.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+#acronimos {
+  background: url("cap32.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+  overflow: hidden;
+}
+
+table {
+  margin-top: 8vh;
+  margin-left: 20vh;
+  margin-right: 5vh;
+  font-size: 20px;
+  color: #fff;
+  border-color: #fff;
+  text-align: center;
+  border-radius: 8px;
+  width: 100vh;
+  height: 40vh;
+  position: absolute;
+  margin-right: 20vh;
+}
+
+@media (max-width: 950px) {
+  table {
+    width: 70vh;
+    height: 30vh;
+  }
+}
+
+@media (max-width: 700px) {
+  table {
+    width: 50vh;
+    height: 15vh;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 450px) {
+  table {
+    width: 30vh;
+    height: 15vh;
+    font-size: 10px;
+  }
+}
+
+#top {
+  display: none;
+  position: fixed;
+  bottom: 25px;
+  right: 35px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  background-image: url("logoicon.png");
+  width: 65px;
+  height: 65px;
+  background-size: 65px;
+}
+
+#top:hover {
+  background-image: url("seta.png");
+  background-size: 150px;
+  background-color: transparent; 
+  transition: 0.5s;
+  width: 65px;
+  height: 65px;
+  background-size: 65px;
+}

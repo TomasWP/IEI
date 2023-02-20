@@ -1,0 +1,80 @@
+Trabalho realizado por:
+
+- Tomás Sousa Fonseca (107245)
+- Beatriz Filipa da Silva Ferreira (107214)
+
+
+
+Assuntos de alta relevância a abordar no trabalho:
+
+-Aspetos tecnicos do latex
+
+
+
+
+Tópicos:
+
+
+- História da Formula
+	- Retratar a história da formula 1 e, abordar no final do tópico o tema da taxa alta de mortalidade no desporto e, quais foram as razões pela qual a mesma existir.
+
+- Segurança na Formula 1 (Nas suas primeiras décadas)
+	- Abordar os acidentes antigos e, que medidas foram tomadas para que o desporto se tornasse mais seguro.
+
+- Estado da Formula 1 (Atualmente)
+	- Abordar os seus perigos, medidas de segurança que salvaram pilotos, espectadores, membros de equipas e staff.
+
+- Avanços Tecnológicos na Formula 1
+	- Os avanços tecnológicos desenvolvidos na f1 para segurança dos pilotos, espectadores, membros de equipas e staff (introduzir o impacto que trouxe para a viação pública para abordagem no próximo tópico).
+
+-Impacto da Formula 1 na Viação Civil
+	- Impacto dos estudos feitos e dos avanços tecnológicos na Formula 1 que tornaram o mundo da viação civil mais seguro (dar exemplos da sua utilização na viação civil).
+
+- Formula 1 nos Automóveis
+	- Abordar como a tecnologia desenvolvida para a Formula 1 é utilizada nos automóveis civis.
+
+
+
+
+Bibliografia:
+
+- Capitulo 1 (História da Formula 1)
+
+	- http://omelhordaformula1.blogspot.com/p/todos-os-campeoes.html
+	- https://pt.wikipedia.org/wiki/F%C3%B3rmula_1#Hist%C3%B3ria
+	- https://sites.google.com/ufprformula.com/site/artigos/hist%C3%B3ria-da-f1
+	- https://www.sitedecuriosidades.com/curiosidade/a-origem-da-formula-1.html
+
+- Capitulo 2 (Segurança no primórdio da Formula 1)
+
+	- https://pt.wikipedia.org/wiki/Lista_de_acidentes_fatais_na_F%C3%B3rmula_1
+	- https://pt.wikipedia.org/wiki/Jules_Bianchi
+	- https://en.wikipedia.org/wiki/Safety_car
+	- https://fitpeople.com/pt/esportes/esporte-a-motor/seguranca-na-formula-1/
+	- https://pt.wikipedia.org/wiki/Gravidade
+	- https://en.wikipedia.org/wiki/G-force
+	- https://www.uol/esporte/especiais/seguranca-na-f-1.htm#seguranca-na-formula-1
+
+- Capitulo 3 (Estado atual da Formula 1)
+
+-Capitulo 4 (Avanços Tecnológicos na Formula 1)
+
+	- halo--(https://en.wikipedia.org/wiki/Halo_(safety_device))
+	- monocoque--(survival cell image)--(https://www.google.com/search?q=monocoque+formula+1&sxsrf=AOaemvL-8FnFjD84xLsE7keWZ5vNSH2Rgw:1638649225580&tbm=isch&source=iu&ictx=1&fir=uzVPBmkfre4xwM%252CXu7syr1nSK1G7M%252C_%253BqJDviSifxGyq6M%252C9xcFgMz7gn29EM%252C_%253BmE1sU5axoCXDiM%252CYdFnc9atdt-n0M%252C_%253BAA-Pt-CfQOkuzM%252CEzdRj3FPLkocvM%252C_%253BEnGzoD3bp2k6YM%252CtT56OFX-PgKl-M%252C_%253BAlMYxIXG__1hrM%252C9xcFgMz7gn29EM%252C_%253BmHl_syw039sVJM%252CaQE3-L24_OMeoM%252C_%253BY-gJrdy3R-3wHM%252CfXXSGjojtA4gQM%252C_%253B5wPA6u-eFbzcyM%252Cnsp58-rVOYc1aM%252C_%253BcZ0Na2d9zBHWmM%252Cx0eIHNdZoNI50M%252C_%253BjgOfQpkHANqJnM%252CrqY3gAKjWUjDzM%252C_%253BkH-gKrVzT6fLgM%252CaQE3-L24_OMeoM%252C_&vet=1&usg=AI4_-kQscD_j3lC1aSB2OAq80RYyW9TNnw&sa=X&ved=2ahUKEwiPw4GI_Mr0AhXJyYUKHfKsDHAQ9QF6BAgLEAE&biw=1536&bih=746&dpr=1.25#imgrc=5wPA6u-eFbzcyM) and (http://www.formula1-dictionary.net/monocoque.html)
+		   --(separacao do monocoque com o corpo traseiro do carro)--(https://echoboomer.pt/formula-1-grande-premio-do-bahrain-importancia-halo/)
+	- fato/luvas/sapatos/capacete--(https://www.redbull.com/br-pt/historia-dos-trajes-de-corrida-de-formula-1)
+				     --(https://www.razaoautomovel.com/2020/12/formula-1-os-detalhes-do-capacetes-mais-seguros-do-mundo)
+				     --(https://www.torcedores.com/noticias/2018/11/como-funciona-o-capacete-da-formula-1)
+				     --(https://www.uol.com.br/tilt/noticias/redacao/2021/02/25/sai-fogo-como-as-roupas-de-pilotos-de-formula-1-resistem-as-chamas.htm)
+				     --(luvas biometricas)--(https://www.autosport.pt/formula1/f1/novas-regras-da-f1-luvas-biometricas/)
+	- rear wing--(https://f1chronicle.com/how-do-formula-1-rear-wings-work-f1-technology/)
+	- front wing--(https://www.mclaren.com/racing/f1-playbook/front-wing/#:~:text=The%20front%20wing%20is%20a,wheels%20and%20into%20the%20sidepods.)
+	- drs--(https://en.wikipedia.org/wiki/Drag_reduction_system)
+	- ers--(https://www.sportskeeda.com/f1/what-ers-formula-1)
+	- das--(https://www.formula1.com/en/latest/article.das-explained-what-we-know-so-far-about-mercedes-trick-new-steering-system.4vgDQ6cc20xUfhdZGT0ejB.html)
+
+Capitulo 5 (Formula 1 nos automóveis)
+
+	- https://www.uol.com.br/carros/listas/formula-1-sempre-antecipou-tecnologias-do-seu-carro-veja-exemplos.html
+
+

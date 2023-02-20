@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    background: url("acerca.jpg") no-repeat center center;
+    background-size: cover;
+    height: 92vh;
+    background-color: #1f1e1ee8;
+}
+
+.cb {
+    margin-left: 20vh;
+    color: #fff;
+    font-size: 20px;
+    margin-top:5vh;
+}
+
+h1 {
+    color: white;
+    margin-left: 35vh;
+    margin-top: 5vh;
+}
+
+.ct {
+    margin-left: 70vh;
+    color: #fff;
+    font-size: 20px;
+    margin-top: -36vh;
+}
+
+li {
+    margin: 3px;
+}
+
+#map {
+    width: 450px;
+    height: 350px;
+    border-radius: 8px;
+    bottom: 30vh;
+    right: 20vh;
+    position: fixed;
+}
+
+@media (max-width: 1440px) {
+    #map {
+        width: 350px;
+        height: 250px;
+        border-radius: 8px;
+        bottom: 48vh;
+        right: 10vh;
+ 
+    }
+}
+
+@media (max-width: 1050px) {
+    #map {
+        width: 250px;
+        height: 200px;
+        border-radius: 8px;
+        bottom: 55vh;
+        right: 10vh;
+ 
+    }
+}
+
+@media (max-width: 860px) {
+    #map {
+        top: 70vh;
+        width: 320px;
+        height: 180px;
+        border-radius: 8px;
+        bottom: 70vh;
+        left: 5vh;
+    }
+}
+
+@media (max-width: 590px) {
+    #map {
+        top: 70vh;
+        width: 280px;
+        height: 190px;
+        border-radius: 8px;
+        bottom: 40vh;
+        left: 5vh;
+    }
+}
+
+
+table {
+    margin-top: 8vh;
+    margin-left: 20vh;
+    margin-right: 5vh;
+    font-size: 20px;
+    color: #fff;
+    border-color: #fff;
+    text-align: center;
+    border-radius: 8px;
+}
+
+@media (max-width: 1300px) {
+    table {
+        margin-left: 10vh;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 940px) {
+    table {
+        margin-left: 5vh;
+        font-size: 14px;
+    }
+}
+@media (max-width: 1250px) {
+    h1 {
+        font-size: 20px;
+        margin-left: 20vh;
+    }
+
+    .cb {
+        font-size: 15px;
+        margin-left: 10vh;
+    }
+
+    .ct {
+        font-size: 15px;
+        margin-left: 50vh;
+        margin-top: -29vh;
+    }
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: rgb(209, 209, 209);
+}
